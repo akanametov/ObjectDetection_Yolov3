@@ -18,4 +18,4 @@
 ### To RUN Object Detector on *web-camera*:
 
 #### 1) With Notebook: use WebDetection.ipynb
-#### 2) With Windows Powershell: use command: `python detect_web.py --input_size=416` (default value for `input_size=416`)
+#### 2) With Windows Powershell: use command: `python detect_web.py --input_size=256` (default value for `input_size=256`)
