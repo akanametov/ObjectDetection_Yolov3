@@ -15,7 +15,7 @@
 #### 1) With Notebook: use PictureDetection.ipynb
 #### 2) With Windows Powershell: use command: `python detect_picture.py --input=dog.jpg --input_size=416` (default values for `input=dog.jpg` and `input_size=416`)
 
-| Parameters         | detect_picture.py |                    |  default value   |
+| Parameters       |   Short Commands  |    Full Commands   |  default value   |
 |------------------|-------------------|--------------------|------------------|
 |   Image          |   `-i`            | `--input`          |    `dog.jpg`     |
 |Image size        |   `-is`           |`--input_size`      |    `416`         |
