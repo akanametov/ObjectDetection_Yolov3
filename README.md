@@ -15,13 +15,15 @@
 #### 1) With Notebook: use PictureDetection.ipynb
 #### 2) With Windows Powershell: use command: `python detect_picture.py --input=dog.jpg --input_size=416` (default values for `input=dog.jpg` and `input_size=416`)
 
+| Commands  |**detect_picture.py**   |  default value   |
+|-----------|-----------|------------|------------------|
+|   Image   |   `-i`    | `--input`  |    `dog.jpg`     |
+|Image size |   `-is`   |`--input_size`|    `416`     |
+|Score Threshold |   `-st`   |`--score_threshold`|    `0.25`     |
+|IoUnion Threshold |   `-it`   |`--iou_threshold`|    `0.5`     |
+
 ### To RUN Object Detector on *web-camera*:
 
 #### 1) With Notebook: use WebDetection.ipynb
 #### 2) With Windows Powershell: use command: `python detect_web.py --input_size=256` (default value for `input_size=256`)
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
