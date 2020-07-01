@@ -1,14 +1,14 @@
 # ObjectDetection_Yolov3
 
 
-## Before to RUN the model :
+## Before to RUN model :
 
 #### 1) Download `yolov3.h5` and `yolov3(tiny).h5` models and put them into the folder `models/` as `models/yolov3.h5` and `models/yolov3(tiny).h5`.
 #### Link to the models .h5: https://www.kaggle.com/kanametov/yolov3
 #### 2** If you are going to train your own model on VOC Dataset download the dataset using the link below and put it into the folder `dataset/` as follows `dataset/VOC2007`.
 #### Link to the VOC Dataset: https://www.kaggle.com/kanametov/vocdataset
 
-## RUN the model :
+## RUN model :
 
 ### To RUN Object Detector on *picture*:
 
@@ -27,5 +27,12 @@
 ### To RUN Object Detector on *web-camera*:
 
 #### 1) With Notebook: use WebDetection.ipynb
-#### 2) With Windows Powershell: use command: `python detect_web.py --input_size=256` (default value for `input_size=256`)
+#### 2) With Windows Powershell: use command: `python detect_web.py`
 
+### Parameters of `detect_web.py`
+
+| Parameters       |   Short Commands  |    Full Commands   |  default value   |
+|------------------|-------------------|--------------------|------------------|
+|Image size        |   `-is`           |`--input_size`      |    `256`         |
+|Score Threshold   |   `-st`           |`--score_threshold` |    `0.25`        |
+|IoUnion Threshold |   `-it`           |`--iou_threshold`   |    `0.5`         |
