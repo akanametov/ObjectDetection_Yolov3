@@ -13,7 +13,9 @@
 ### To RUN Object Detector on *picture*:
 
 #### 1) With Notebook: use PictureDetection.ipynb
-#### 2) With Windows Powershell: use command: `python detect_picture.py --input=dog.jpg --input_size=416` (default values for `input=dog.jpg` and `input_size=416`)
+#### 2) With Windows Powershell: use command: `python detect_picture.py`
+
+### Parameters of `detect_picture.py`
 
 | Parameters       |   Short Commands  |    Full Commands   |  default value   |
 |------------------|-------------------|--------------------|------------------|
