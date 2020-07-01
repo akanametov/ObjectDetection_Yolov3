@@ -17,7 +17,7 @@
 
 ### Parameters of `detect_picture.py`
 
-| Parameters       |   Short Commands  |    Full Commands   |  default value   |
+| Parameters       |   Short Commands  |    Full Commands   |  Default value   |
 |------------------|-------------------|--------------------|------------------|
 |   Image          |   `-i`            | `--input`          |    `dog.jpg`     |
 |Image size        |   `-is`           |`--input_size`      |    `416`         |
@@ -31,7 +31,7 @@
 
 ### Parameters of `detect_web.py`
 
-| Parameters       |   Short Commands  |    Full Commands   |  default value   |
+| Parameters       |   Short Commands  |    Full Commands   |  Default value   |
 |------------------|-------------------|--------------------|------------------|
 |Image size        |   `-is`           |`--input_size`      |    `256`         |
 |Score Threshold   |   `-st`           |`--score_threshold` |    `0.25`        |
