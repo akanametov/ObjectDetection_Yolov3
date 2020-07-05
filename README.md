@@ -37,3 +37,5 @@
 |Image size        |   `-is`           |`--input_size`      |    `256`         |
 |Score Threshold   |   `-st`           |`--score_threshold` |    `0.25`        |
 |IoUnion Threshold |   `-it`           |`--iou_threshold`   |    `0.5`         |
+
+#### Press `q` to exit from Web-Detector.
