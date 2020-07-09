@@ -1,5 +1,7 @@
 ## ObjectDetection_Yolov3
 
+-----------------------------------
+
 ### You can RUN YoloDetectorBot by following to next steps:
 #### 1) Download Repository and `yolov3(tiny).h5` and put model into `models/yolov3(tiny).h5`.
 ##### Link to the models .h5: https://www.kaggle.com/kanametov/yolov3
@@ -7,7 +9,7 @@
 #### 3) or RUN `Bot.ipynb`
 #### 4) Finaly open Telegram Bot: https://web.telegram.org/@YoloDetectorBot
 
-
+---------------------------------------
 
 ### Before to RUN model :
 
@@ -16,6 +18,8 @@
 ##### Link to the models .h5: https://www.kaggle.com/kanametov/yolov3
 ##### 2** If you are going to train your own model on VOC Dataset download the dataset using the link below and put it into the folder `dataset/` as follows `dataset/VOC2007`.
 ##### Link to the VOC Dataset: https://www.kaggle.com/kanametov/vocdataset
+
+--------------------------------------------
 
 ### RUN model :
 
@@ -32,6 +36,8 @@
 |Image size        |   `-is`           |`--input_size`      |    `416`         |
 |Score Threshold   |   `-st`           |`--score_threshold` |    `0.25`        |
 |IoUnion Threshold |   `-it`           |`--iou_threshold`   |    `0.5`         |
+
+------------------------------------------
 
 #### To RUN Object Detector on *web-camera*:
 
