@@ -1,0 +1,9 @@
+os
+is
+numpy
+telebot
+matplotlib
+torch
+torchvision
+PIL
+cv2
