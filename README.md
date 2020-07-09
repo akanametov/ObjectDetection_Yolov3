@@ -9,7 +9,7 @@
 #### 3) or RUN `Bot.ipynb`
 #### 4) Finaly open Telegram Bot: https://web.telegram.org/@YoloDetectorBot
 
-<img src="images/bot.jpg" alt="alt text" width="200" height="400"/>
+<img src="images/bot.jpg" alt="alt text" align="center" width="220" height="400"/>
 
 ---------------------------------------
 
