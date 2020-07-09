@@ -9,6 +9,8 @@
 #### 3) or RUN `Bot.ipynb`
 #### 4) Finaly open Telegram Bot: https://web.telegram.org/@YoloDetectorBot
 
+images/bot.jpg
+
 ---------------------------------------
 
 ### Before to RUN model :
