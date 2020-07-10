@@ -1,5 +1,7 @@
 ## ObjectDetection_Yolov3
 
+**Update!!! Now you can use `Simpsons font` when drawing boxes. Just change `data/font/FiraMono-Medium.otf` by `data/font/font_Simpsonfont.ttf` in `dutils.py`.
+
 -----------------------------------
 
 ### You can RUN YoloDetectorBot by following to next steps:
@@ -7,7 +9,7 @@
 ##### Link to the models .h5: https://www.kaggle.com/kanametov/yolov3
 #### 2) RUN `bot.py` using Powershell and command `python bot.py`
 #### 3) or RUN `Bot.ipynb`
-#### 4) Finaly open Telegram Bot: https://web.telegram.org/@YoloDetectorBot
+#### 4) Finaly open Telegram Bot: https://web.telegram.org/@YoloDetectorBot and use command `/start`
 
 <img src="images/bot.jpg" alt="alt text" align="center" width="220" height="400"/>
 
