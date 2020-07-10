@@ -1,6 +1,6 @@
 ## ObjectDetection_Yolov3
 
-**Update!!! Now you can use `Simpsons font` when drawing boxes. Just change `data/font/FiraMono-Medium.otf` by `data/font/font_Simpsonfont.ttf` in `dutils.py`.
+**Update!!! Now you can use `Simpsons font` when drawing boxes. Just change `data/font/FiraMono-Medium.otf` by `data/font/font_Simpsonfont.ttf` in `dutils.py`.**
 
 -----------------------------------
 
