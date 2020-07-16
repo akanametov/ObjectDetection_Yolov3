@@ -5,6 +5,7 @@
 -----------------------------------
 
 ### You can RUN YoloDetectorBot by following to next steps:
+#### **) Install library https://github.com/eternnoir/pyTelegramBotAPI
 #### 1) Download Repository and `yolov3(tiny).h5` and put model into `models/yolov3(tiny).h5`.
 ##### Link to the models .h5: https://www.kaggle.com/kanametov/yolov3
 #### 2) RUN `bot.py` using Powershell and command `python bot.py`
